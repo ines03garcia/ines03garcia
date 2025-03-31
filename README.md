@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello, I'm Inês a MSc. student in Computer Science and Engineering at IST Lisboa.<br>I'm working on my thesis: "Breast Cancer Counterfactual Generation and Anomaly Detection using Diffusion Models".<br>
 
 
