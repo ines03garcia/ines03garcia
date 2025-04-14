@@ -1,9 +1,6 @@
 # About Me:
 Hello, I'm Inês a MSc. student in Computer Science and Engineering at IST Lisboa.<br>I'm working on my thesis: "Breast Cancer Counterfactual Generation and Anomaly Detection using Diffusion Models".<be>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ines03garcia)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ines-c-garcia) 
